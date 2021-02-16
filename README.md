@@ -1,34 +1,12 @@
 # Parmis28204.github.io
 Project website
-  <html>
-<head>
-<style>
-.item1 { grid-area: header; }
-.item3 { grid-area: main; }
-.item4 { grid-area: right; }
-.item5 { grid-area: footer; }
-
-.grid-container {
-  display: grid;
-  grid-template-areas:
-    'header header header header header header'
-    'main main main main right right'
-    'footer footer footer footer footer footer';
-  grid-gap: 10px;
-  background-color: #2196F3;
-  padding: 10px;
-}
-
-.grid-container > div {
-  background-color: rgba(255, 255, 255, 0.8);
-  text-align: center;
-  padding: 10px ;
-  font-size: 20px;
-}
-</style>
-</head>
+ 
+ 
+ <html>
 <body>
 
+<body style="background color :powderblue;">
+  
 <h1>Places I've lived till now: </h1>
 
 <div class="grid-container">
