@@ -1,11 +1,9 @@
 # Parmis28204.github.io
 Project website
  
- 
  <html>
-<body>
 
-<body style="background color :powderblue;">
+<body>
   
 <h1>Places I've lived till now: </h1>
 
@@ -43,7 +41,9 @@ Interview in Helsingin Sanomat on 16.03.2019 for being a fast Finnish learner. <
 
 <h3> Here is a link to my  HS interview: </h3> 
 <p> https://www.hs.fi/kaupunki/art-2000006037297.html </p>
+
 </body>
+
 </html>
 
 
